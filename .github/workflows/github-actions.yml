@@ -12,7 +12,7 @@ jobs:
         uses: xu-cheng/latex-action@v3
         with:
           root_file: |
-            farsi_NT_2JN.tex
+            farsi_NT_1JN.tex
           latexmk_use_xelatex: true
           continue_on_error: true
           extra_fonts: |
