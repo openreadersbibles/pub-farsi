@@ -1,0 +1,1392 @@
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.10.1)  1 OCT 2024 21:41
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**farsi_NT_3JN.tex
+(./farsi_NT_3JN.tex
+LaTeX2e <2024-06-01> patch level 2
+L3 programming layer <2024-09-10>
+(./openreader.cls
+Document Class: openreader 
+(/opt/texlive/texdir/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2024/02/08 v1.4n Standard LaTeX document class
+(/opt/texlive/texdir/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2024/02/08 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count190
+\c@section=\count191
+\c@subsection=\count192
+\c@subsubsection=\count193
+\c@paragraph=\count194
+\c@subparagraph=\count195
+\c@figure=\count196
+\c@table=\count197
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen141
+)
+(/opt/texlive/texdir/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count198
+)
+(/opt/texlive/texdir/texmf-dist/tex/latex/polyglossia/polyglossia.sty
+Package: polyglossia 2024/09/23 v2.3 Modern multilingual typesetting with XeLaT
+eX and LuaLaTeX
+
+(/opt/texlive/texdir/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/opt/texlive/texdir/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/opt/texlive/texdir/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2024-09-10 L3 programming layer (loader) 
+
+(/opt/texlive/texdir/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2024-05-08 L3 backend support: XeTeX
+\g__graphics_track_int=\count199
+\l__pdf_internal_box=\box52
+\g__pdf_backend_annotation_int=\count266
+\g__pdf_backend_link_int=\count267
+))
+Package: xparse 2024-08-16 L3 Experimental document command parser
+)
+Package: fontspec 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTeX
+
+(/opt/texlive/texdir/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count268
+\l__fontspec_language_int=\count269
+\l__fontspec_strnum_int=\count270
+\l__fontspec_tmp_int=\count271
+\l__fontspec_tmpa_int=\count272
+\l__fontspec_tmpb_int=\count273
+\l__fontspec_tmpc_int=\count274
+\l__fontspec_em_int=\count275
+\l__fontspec_emdef_int=\count276
+\l__fontspec_strong_int=\count277
+\l__fontspec_strongdef_int=\count278
+\l__fontspec_tmpa_dim=\dimen142
+\l__fontspec_tmpb_dim=\dimen143
+\l__fontspec_tmpc_dim=\dimen144
+
+(/opt/texlive/texdir/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(/opt/texlive/texdir/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/opt/texlive/texdir/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+\l_xpg_alias_keyvals_int=\count279
+
+(/opt/texlive/texdir/texmf-dist/tex/latex/polyglossia/gloss-latex.ldf
+File: gloss-latex.ldf polyglossia: module for default language
+))
+(/opt/texlive/texdir/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2023/10/27 v2.16 Sectioning titles
+\ttl@box=\box53
+\beforetitleunit=\skip51
+\aftertitleunit=\skip52
+\ttl@plus=\dimen145
+\ttl@minus=\dimen146
+\ttl@toksa=\toks17
+\titlewidth=\dimen147
+\titlewidthlast=\dimen148
+\titlewidthfirst=\dimen149
+)
+(/opt/texlive/texdir/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/opt/texlive/texdir/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
+)
+(/opt/texlive/texdir/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count280
+\Gm@cntv=\count281
+\c@Gm@tempcnt=\count282
+\Gm@bindingoffset=\dimen150
+\Gm@wd@mp=\dimen151
+\Gm@odd@mp=\dimen152
+\Gm@even@mp=\dimen153
+\Gm@layoutwidth=\dimen154
+\Gm@layoutheight=\dimen155
+\Gm@layouthoffset=\dimen156
+\Gm@layoutvoffset=\dimen157
+\Gm@dimlist=\toks19
+)
+(/opt/texlive/texdir/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2024/07/23 v4.3.1 Extensive control of page headers and foote
+rs
+\f@nch@headwidth=\skip53
+\f@nch@O@elh=\skip54
+\f@nch@O@erh=\skip55
+\f@nch@O@olh=\skip56
+\f@nch@O@orh=\skip57
+\f@nch@O@elf=\skip58
+\f@nch@O@erf=\skip59
+\f@nch@O@olf=\skip60
+\f@nch@O@orf=\skip61
+)
+\FootnoteHangingIndent=\dimen158
+\FootnoteSectionHeight=\dimen159
+\FootnoteTextSize=\dimen160
+\FootnoteBaselineSkip=\dimen161
+)
+(/opt/texlive/texdir/texmf-dist/tex/latex/polyglossia/gloss-persian.ldf
+File: gloss-persian.ldf polyglossia: module for Persian
+
+(/opt/texlive/texdir/texmf-dist/tex/xelatex/bidi/bidi.sty
+Package: bidi 2023/08/02 v39.8 (Release Donald Ervin Knuth) Bidirectional types
+etting in plain TeX and LaTeX
+
+****************************************************
+* 
+* bidi package (Bidirectional typesetting in
+* plain TeX and LaTeX, using XeTeX engine)
+* 
+* Description: A convenient interface for
+* typesetting bidirectional texts in plain TeX
+* and LaTeX. The package includes adaptations
+* for use with many other commonly-used packages.
+* 
+* Copyright (c) 2007--2023 Vafa Khalighi
+* Copyright (c) 2018--2020 bidi-tex GitHub organization
+* 
+* v39.8 (Release Donald Ervin Knuth), 2023/08/02
+* 
+* License: LaTeX Project Public License, version
+* 1.3c or higher (your choice)
+* 
+* Location on CTAN: /macros/xetex/latex/bidi
+* 
+* Issue tracker: https://github.com/kvafa/bidi/issues
+* 
+* Discussions: https://github.com/kvafa/bidi/discussions
+* 
+* Primary author of bidi package: Vafa Khalighi.
+* 
+****************************************************
+(/opt/texlive/texdir/texmf-dist/tex/xelatex/bidi/biditools.sty
+Package: biditools 2022/06/15 v2.3 Programming tools for bidi package
+\@bidi@envbody=\toks20
+\@bidi@emptytoks=\toks21
+\bidi@poscount=\count283
+\bidi@tempcountb=\count284
+\bidi@temptoksa=\toks22
+\bidi@temptoksb=\toks23
+\bidi@dummies=\count285
+\bidi@are@these@correct=\toks24
+\bidi@toks@lista=\toks25
+\bidi@toks@listb=\toks26
+\bidi@stack@length=\count286
+\bidi@empty@stack=\toks27
+\bidi@looprepeat@depth=\count287
+)
+(/opt/texlive/texdir/texmf-dist/tex/latex/zref/zref-abspage.sty
+Package: zref-abspage 2023-09-14 v2.35 Module abspage for zref (HO)
+
+(/opt/texlive/texdir/texmf-dist/tex/latex/zref/zref-base.sty
+Package: zref-base 2023-09-14 v2.35 Module base for zref (HO)
+
+(/opt/texlive/texdir/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(/opt/texlive/texdir/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(/opt/texlive/texdir/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)
+(/opt/texlive/texdir/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(/opt/texlive/texdir/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+)
+(/opt/texlive/texdir/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+(/opt/texlive/texdir/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+Package zref Info: New property list: main on input line 767.
+Package zref Info: New property: default on input line 768.
+Package zref Info: New property: page on input line 769.
+)
+\c@abspage=\count288
+Package zref Info: New property: abspage on input line 67.
+)
+(/opt/texlive/texdir/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(/opt/texlive/texdir/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/opt/texlive/texdir/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks28
+\XKV@tempa@toks=\toks29
+)
+\XKV@depth=\count289
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+\@bidi@copyins@=\insert252
+
+(/opt/texlive/texdir/texmf-dist/tex/xelatex/bidi/latex-xetex-bidi.def
+File: latex-xetex-bidi.def 2022/07/04 v1.4.9 bidi adaptations for `latex.ltx' f
+or XeTeX engine
+\bidi@n@everypar=\toks30
+\bidi@column@check@number=\count290
+
+(/opt/texlive/texdir/texmf-dist/tex/xelatex/bidi/footnote-xetex-bidi.def
+File: footnote-xetex-bidi.def 2023/01/18 v1.2 bidi footnote macros for XeTeX en
+gine
+\c@footdir@label=\count291
+\footdir@toks=\toks31
+)
+(/opt/texlive/texdir/texmf-dist/tex/xelatex/bidi/article-xetex-bidi.def
+File: article-xetex-bidi.def 2017/06/09 v0.6 bidi adaptations for standard arti
+cle class for XeTeX engine
+)
+(/opt/texlive/texdir/texmf-dist/tex/xelatex/bidi/geometry-xetex-bidi.def
+File: geometry-xetex-bidi.def 2017/01/14 v0.2 bidi adaptations for geometry pac
+kage for XeTeX engine
+)
+(/opt/texlive/texdir/texmf-dist/tex/xelatex/bidi/fancyhdr-xetex-bidi.def
+File: fancyhdr-xetex-bidi.def 2018/02/15 v0.7 bidi adaptations for fancyhdr pac
+kage for XeTeX engine
+)
+(/opt/texlive/texdir/texmf-dist/tex/xelatex/bidi/titlesec-xetex-bidi.def
+File: titlesec-xetex-bidi.def 2010/07/25 v0.1 bidi adaptations for titlesec pac
+kage for XeTeX engine
+))
+(/opt/texlive/texdir/texmf-dist/tex/xelatex/bidi/loadingorder-xetex-bidi.def
+File: loadingorder-xetex-bidi.def 2017/12/29 v0.97 making sure that bidi is the
+ last package loaded
+)
+\bidi@digits=\count292
+\bidi@digits@charclass=\XeTeXcharclass1
+\bidi@sepmark@charclass=\XeTeXcharclass2
+)
+(/opt/texlive/texdir/texmf-dist/tex/latex/polyglossia/arabicnumbers.sty
+Package: arabicnumbers 2010/03/18 v0.2 Formatting of Arabic and Farsi digits an
+d of Arabic abjad numerals
+)
+(/opt/texlive/texdir/texmf-dist/tex/latex/polyglossia/farsical.sty
+Package: farsical 2019/12/12 v0.2 Farsi (jalali) calendar
+
+(/opt/texlive/texdir/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count293
+\calc@Bcount=\count294
+\calc@Adimen=\dimen162
+\calc@Bdimen=\dimen163
+\calc@Askip=\skip62
+\calc@Bskip=\skip63
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count295
+\calc@Cskip=\skip64
+)
+\JALALI@i=\count296
+\JALALI@y=\count297
+\JALALI@m=\count298
+\JALALI@d=\count299
+\JALALI@latini=\count300
+\JALALI@farsii=\count301
+\JALALI@latinii=\count302
+\JALALI@farsiii=\count303
+\JALALI@latiniii=\count304
+\JALALI@farsiiii=\count305
+\JALALI@latiniv=\count306
+\JALALI@farsiiv=\count307
+\JALALI@latinv=\count308
+\JALALI@farsiv=\count309
+\JALALI@latinvi=\count310
+\JALALI@farsivi=\count311
+\JALALI@latinvii=\count312
+\JALALI@farsivii=\count313
+\JALALI@latinviii=\count314
+\JALALI@farsiviii=\count315
+\JALALI@latinix=\count316
+\JALALI@farsiix=\count317
+\JALALI@latinx=\count318
+\JALALI@farsix=\count319
+\JALALI@latinxi=\count320
+\JALALI@farsixi=\count321
+\JALALI@latinxii=\count322
+\JALALI@farsixii=\count323
+\JALALI@farsixiii=\count324
+\JALALI@temp=\count325
+\JALALI@temptwo=\count326
+\JALALI@tempthree=\count327
+\JALALI@yModHundred=\count328
+\JALALI@thirtytwo=\count329
+\JALALI@dn=\count330
+\JALALI@sn=\count331
+\JALALI@mminusone=\count332
+)
+(/opt/texlive/texdir/texmf-dist/tex/latex/polyglossia/hijrical.sty
+Package: hijrical 2010/07/12 v0.2 Islamic calendar
+
+(/opt/texlive/texdir/texmf-dist/tex/latex/polyglossia/cal-util.def
+\c@tmpA=\count333
+\c@tmpB=\count334
+\c@tmpC=\count335
+\c@tmpD=\count336
+\c@tmpE=\count337
+\c@tmpF=\count338
+)
+\c@Hijriday=\count339
+\c@Hijrimonth=\count340
+\c@Hijriyear=\count341
+))
+
+Package polyglossia Info: Default language is persian
+
+
+Package fontspec Info: 
+(fontspec)             Could not resolve font "Noto Naskh Arabic/I" (it
+(fontspec)             probably doesn't exist).
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'NotoNaskhArabic(0)' created for font 'Noto
+(fontspec)             Naskh Arabic' with options [Ligatures=TeX].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Noto Naskh
+(fontspec)             Arabic/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Noto Naskh
+(fontspec)             Arabic/B/OT:script=latn;language=dflt;mapping=tex-text;"
+
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Noto Naskh
+(fontspec)             Arabic/BI/OT:script=latn;language=dflt;mapping=tex-text;
+"
+
+
+(/opt/texlive/texdir/texmf-dist/tex/latex/polyglossia/gloss-greek.ldf
+File: gloss-greek.ldf polyglossia: module for Greek
+
+(/opt/texlive/texdir/texmf-dist/tex/latex/polyglossia/xgreek-fixes.def)
+\@attic@num=\count342
+)
+
+Package fontspec Info: 
+(fontspec)             Could not resolve font "SBL BibLit/BI" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: 
+(fontspec)             Could not resolve font "SBL BibLit/B" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: 
+(fontspec)             Could not resolve font "SBL BibLit/I" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'SBLBibLit(0)' created for font 'SBL
+(fontspec)             BibLit' with options [Script=Greek].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"SBL
+(fontspec)             BibLit/OT:script=grek;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: <->"SBL
+(fontspec)             BibLit/OT:script=grek;language=dflt;+smcp;"
+
+
+(./farsi_NT_3JN.aux)
+\openout1 = `farsi_NT_3JN.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 8.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 8
+.
+ (/opt/texlive/texdir/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+
+Package fontspec Info: 
+(fontspec)             Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
+
+\symlegacymaths=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 8.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 8.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 8.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 8.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 8.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 8.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 8.
+LaTeX Font Info:    Redeclaring math accent \check on input line 8.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 8.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 8.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 8.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 8.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 8.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 8.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 8.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 8.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 8.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 8.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 8.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 8.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 8.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 8.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 8.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 8.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 8.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 8.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/NotoNaskhArabic(0)/m/n on input line
+ 8.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 8.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/NotoNaskhArabic(0)/m/n on input lin
+e 8.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/NotoNaskhArabic(0)/m/n --> TU/NotoNaskhArabic(0)/m/n
+ on input line 8.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/NotoNaskhArabic(0)/m/it on input li
+ne 8.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/NotoNaskhArabic(0)/b/n on input lin
+e 8.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 8.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 8.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/NotoNaskhArabic(0)/m/n --> TU/NotoNaskhArabic(0)/b/n
+ on input line 8.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/NotoNaskhArabic(0)/b/it on input l
+ine 8.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 8.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 8.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 500.484pt, 56.9055pt)
+* v-part:(T,H,B)=(56.9055pt, 681.15898pt, 56.9055pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=500.484pt
+* \textheight=681.15898pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt plus 10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+RTL is true. LTR is false.
+
+Package fontspec Info: 
+(fontspec)             Could not resolve font "Noto Naskh Arabic/I" (it
+(fontspec)             probably doesn't exist).
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'NotoNaskhArabic(1)' created for font 'Noto
+(fontspec)             Naskh Arabic' with options
+(fontspec)             [Ligatures=TeX,Script=Arabic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Noto Naskh
+(fontspec)             Arabic/OT:script=arab;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Noto Naskh
+(fontspec)             Arabic/B/OT:script=arab;language=dflt;mapping=tex-text;"
+
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Noto Naskh
+(fontspec)             Arabic/BI/OT:script=arab;language=dflt;mapping=tex-text;
+"
+
+
+Package fontspec Info: 
+(fontspec)             Could not resolve font "Noto Naskh Arabic/I" (it
+(fontspec)             probably doesn't exist).
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'NotoNaskhArabic(2)' created for font 'Noto
+(fontspec)             Naskh Arabic' with options
+(fontspec)             [Ligatures=TeX,Script=Arabic,Language=Persian].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Noto Naskh
+(fontspec)             Arabic/OT:script=arab;language=FAR;mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Noto Naskh
+(fontspec)             Arabic/B/OT:script=arab;language=FAR;mapping=tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Noto Naskh
+(fontspec)             Arabic/BI/OT:script=arab;language=FAR;mapping=tex-text;"
+
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 10.
+
+LaTeX Warning: No \author given.
+
+Missing character: There is no ۱ (U+06F1) in font Noto Naskh Arabic SemiBold/OT
+:script=arab;language=FAR;mapping=tex-text;!
+
+LaTeX Font Warning: Font shape `TU/SBLBibLit(0)/b/n' undefined
+(Font)              using `TU/SBLBibLit(0)/m/n' instead on input line 14.
+
+Missing character: There is no ف (U+0641) in font Noto Naskh Arabic SemiBold/OT
+:script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ص (U+0635) in font Noto Naskh Arabic SemiBold/OT
+:script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ل (U+0644) in font Noto Naskh Arabic SemiBold/OT
+:script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ۱ (U+06F1) in font Noto Naskh Arabic SemiBold/OT
+:script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ۱ (U+06F1) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+
+LaTeX Font Warning: Font shape `TU/NotoNaskhArabic(2)/m/it' undefined
+(Font)              using `TU/NotoNaskhArabic(2)/m/n' instead on input line 15.
+
+
+Missing character: There is no گ (U+06AF) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ی (U+06CC) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no و (U+0648) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no س (U+0633) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ب (U+0628) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+LaTeX Font Info:    Calculating math sizes for size <16> on input line 15.
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <16> not available
+(Font)              size <17.28> substituted on input line 15.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <16> not available
+(Font)              size <17.28> substituted on input line 15.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <16> on input line 15.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <11.19995> on input line 15.
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <16> not available
+(Font)              size <17.28> substituted on input line 15.
+
+Missing character: There is no ب (U+0628) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ۲ (U+06F2) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no د (U+062F) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ع (U+0639) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ک (U+06A9) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ر (U+0631) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no د (U+062F) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ن (U+0646) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ب (U+0628) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ت (U+062A) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ک (U+06A9) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no م (U+0645) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ی (U+06CC) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ب (U+0628) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ب (U+0628) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no و (U+0648) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no د (U+062F) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ن (U+0646) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no پ (U+067E) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ت (U+062A) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ن (U+0646) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no د (U+062F) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ر (U+0631) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no س (U+0633) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ت (U+062A) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ب (U+0628) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no و (U+0648) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no د (U+062F) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ن (U+0646) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ٢ (U+0662) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ب (U+0628) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no پ (U+067E) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ت (U+062A) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ۳ (U+06F3) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ب (U+0628) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ز (U+0632) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ی (U+06CC) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no د (U+062F) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no پ (U+067E) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ت (U+062A) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ث (U+062B) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ٣ (U+0663) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ب (U+0628) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no پ (U+067E) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ت (U+062A) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ث (U+062B) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ۴ (U+06F4) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ب (U+0628) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ی (U+06CC) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ش (U+0634) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ت (U+062A) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ر (U+0631) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ب (U+0628) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no پ (U+067E) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ت (U+062A) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ٤ (U+0664) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ب (U+0628) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no پ (U+067E) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ت (U+062A) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ۵ (U+06F5) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ب (U+0628) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no پ (U+067E) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ب (U+0628) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ی (U+06CC) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no گ (U+06AF) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ن (U+0646) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ه (U+0647) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ٥ (U+0665) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ب (U+0628) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no پ (U+067E) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ۶ (U+06F6) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ب (U+0628) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no پ (U+067E) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ر (U+0631) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no و (U+0648) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ن (U+0646) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ۀ (U+06C0) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no س (U+0633) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ف (U+0641) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ر (U+0631) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ک (U+06A9) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ر (U+0631) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no د (U+062F) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ن (U+0646) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ت (U+062A) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ب (U+0628) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ه (U+0647) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ط (U+0637) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no و (U+0648) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ر (U+0631) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ش (U+0634) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ی (U+06CC) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no س (U+0633) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ت (U+062A) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ه (U+0647) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ٦ (U+0666) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ب (U+0628) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no پ (U+067E) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ت (U+062A) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ۷ (U+06F7) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ب (U+0628) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no پ (U+067E) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no م (U+0645) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ل (U+0644) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ت (U+062A) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ٧ (U+0667) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ب (U+0628) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no پ (U+067E) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ۸ (U+06F8) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ب (U+0628) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no پ (U+067E) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ذ (U+0630) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ی (U+06CC) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ر (U+0631) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ف (U+0641) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ت (U+062A) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ن (U+0646) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no پ (U+067E) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ه (U+0647) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no م (U+0645) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ک (U+06A9) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ر (U+0631) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ت (U+062A) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ٨ (U+0668) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ب (U+0628) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no پ (U+067E) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ت (U+062A) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ۹ (U+06F9) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ب (U+0628) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no د (U+062F) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no و (U+0648) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no س (U+0633) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ت (U+062A) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no د (U+062F) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ش (U+0634) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ت (U+062A) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ن (U+0646) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ج (U+062C) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ی (U+06CC) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no گ (U+06AF) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ه (U+0647) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ن (U+0646) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no خ (U+062E) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no س (U+0633) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ت (U+062A) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no پ (U+067E) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no د (U+062F) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ی (U+06CC) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no و (U+0648) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ت (U+062A) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ْ (U+0652) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ر (U+0631) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ِ (U+0650) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ف (U+0641) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ی (U+06CC) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no س (U+0633) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ت (U+062A) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no پ (U+067E) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ذ (U+0630) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ی (U+06CC) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ر (U+0631) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ف (U+0641) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ت (U+062A) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ن (U+0646) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--15
+[][][][][]$[]$[][]\TU/NotoNaskhArabic(2)/m/it/12 V1SAAI[][]\TU/SBLBibLit(0)/m/n
+/12 . $[]$[][]\TU/NotoNaskhArabic(2)/m/it/12 VPPANMS[] [][]\TU/SBLBibLit(0)/m/n
+/12 φιλοπρωτεύω[] [][]\TU/NotoNaskhArabic(2)/m/it/12 دوست داشتن جایگاه نخست[][]
+\TU/SBLBibLit(0)/m/n/12 . $[]$[][]\TU/NotoNaskhArabic(2)/m/it/12 NNMS[] [][]\TU
+/SBLBibLit(0)/m/n/12 Διοτρέφης[][]
+ []
+
+Missing character: There is no ٩ (U+0669) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ب (U+0628) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no پ (U+067E) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ت (U+062A) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ۱ (U+06F1) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ۰ (U+06F0) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+
+Overfull \hbox (7.504pt too wide) detected at line 15
+[][]\TU/NotoNaskhArabic(2)/m/it/12 ۱۰  
+ []
+
+Missing character: There is no ب (U+0628) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ی (U+06CC) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no د (U+062F) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no آ (U+0622) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no و (U+0648) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ر (U+0631) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ی (U+06CC) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ک (U+06A9) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ر (U+0631) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no د (U+062F) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ن (U+0646) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no پ (U+067E) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ت (U+062A) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ب (U+0628) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no د (U+062F) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no گ (U+06AF) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ف (U+0641) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ت (U+062A) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ن (U+0646) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ث (U+062B) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ر (U+0631) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ض (U+0636) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ی (U+06CC) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ش (U+0634) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no د (U+062F) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ن (U+0646) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ج (U+062C) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no پ (U+067E) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ذ (U+0630) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ی (U+06CC) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ر (U+0631) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ف (U+0641) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ت (U+062A) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ن (U+0646) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no چ (U+0686) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ح (U+062D) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ج (U+062C) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ل (U+0644) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no و (U+0648) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no گ (U+06AF) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ی (U+06CC) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ر (U+0631) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ی (U+06CC) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ک (U+06A9) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ر (U+0631) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no د (U+062F) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ن (U+0646) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no خ (U+062E) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ١ (U+0661) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ٠ (U+0660) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ب (U+0628) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no پ (U+067E) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ت (U+062A) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ث (U+062B) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ج (U+062C) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no چ (U+0686) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ح (U+062D) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no خ (U+062E) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ۱ (U+06F1) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ۱ (U+06F1) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+
+Overfull \hbox (7.504pt too wide) detected at line 15
+[][]\TU/NotoNaskhArabic(2)/m/it/12 ۱۱  
+ []
+
+Missing character: There is no ت (U+062A) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ق (U+0642) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ل (U+0644) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ی (U+06CC) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no د (U+062F) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ک (U+06A9) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ر (U+0631) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no د (U+062F) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ن (U+0646) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ب (U+0628) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no خ (U+062E) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no و (U+0648) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ب (U+0628) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ی (U+06CC) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ک (U+06A9) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ر (U+0631) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no د (U+062F) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ن (U+0646) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no پ (U+067E) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ت (U+062A) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ب (U+0628) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no د (U+062F) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ی (U+06CC) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ک (U+06A9) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ر (U+0631) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no د (U+062F) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ن (U+0646) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ث (U+062B) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+
+Underfull \hbox (badness 7981) in paragraph at lines 15--15
+[][][][][]$[]$[][]\TU/NotoNaskhArabic(2)/m/it/12 V2SPMM[] [][]\TU/SBLBibLit(0)/
+m/n/12 μιμέομαι[] [][]\TU/NotoNaskhArabic(2)/m/it/12 تقلید کردن[][]\TU/SBLBibLi
+t(0)/m/n/12 . $[]$[][]\TU/NotoNaskhArabic(2)/m/it/12 VPPANMS[] [][]\TU/SBLBibLi
+t(0)/m/n/12 ἀγαθοποιέω[] [][]\TU/NotoNaskhArabic(2)/m/it/12 خوبی کردن[][]\TU/SB
+LBibLit(0)/m/n/12 . $[]$[][]\TU/NotoNaskhArabic(2)/m/it/12 V3SPAI[][]\TU/SBLBib
+Lit(0)/m/n/12 .[]
+ []
+
+Missing character: There is no ١ (U+0661) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ١ (U+0661) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ب (U+0628) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no پ (U+067E) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ت (U+062A) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ث (U+062B) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ۱ (U+06F1) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ۲ (U+06F2) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+
+Overfull \hbox (7.504pt too wide) detected at line 15
+[][]\TU/NotoNaskhArabic(2)/m/it/12 ۱۲  
+ []
+
+Missing character: There is no د (U+062F) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ی (U+06CC) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no م (U+0645) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ی (U+06CC) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ت (U+062A) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ر (U+0631) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ی (U+06CC) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no و (U+0648) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no س (U+0633) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ب (U+0628) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no پ (U+067E) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ت (U+062A) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ث (U+062B) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ح (U+062D) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ق (U+0642) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ی (U+06CC) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ق (U+0642) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ی (U+06CC) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ج (U+062C) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ١ (U+0661) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ٢ (U+0662) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ب (U+0628) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no پ (U+067E) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ت (U+062A) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ث (U+062B) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ج (U+062C) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ۱ (U+06F1) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ۳ (U+06F3) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+
+Overfull \hbox (7.504pt too wide) detected at line 15
+[][]\TU/NotoNaskhArabic(2)/m/it/12 ۱۳  
+ []
+
+Missing character: There is no ب (U+0628) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ج (U+062C) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no پ (U+067E) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ت (U+062A) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ج (U+062C) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no و (U+0648) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ه (U+0647) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ر (U+0631) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ث (U+062B) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ق (U+0642) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ل (U+0644) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no م (U+0645) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ١ (U+0661) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ٣ (U+0663) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ب (U+0628) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no پ (U+067E) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ت (U+062A) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ث (U+062B) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ج (U+062C) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ۱ (U+06F1) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ۴ (U+06F4) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+
+Overfull \hbox (7.504pt too wide) detected at line 15
+[][]\TU/NotoNaskhArabic(2)/m/it/12 ۱۴  
+ []
+
+Missing character: There is no ب (U+0628) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no پ (U+067E) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ١ (U+0661) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ٤ (U+0664) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ب (U+0628) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no پ (U+067E) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ۱ (U+06F1) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ۵ (U+06F5) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+
+Overfull \hbox (7.504pt too wide) detected at line 15
+[][]\TU/NotoNaskhArabic(2)/m/it/12 ۱۵  
+ []
+
+Missing character: There is no پ (U+067E) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ب (U+0628) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ت (U+062A) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no د (U+062F) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no و (U+0648) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no س (U+0633) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ت (U+062A) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ١ (U+0661) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ٥ (U+0665) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ب (U+0628) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no پ (U+067E) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+Missing character: There is no ت (U+062A) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+
+Overfull \hbox (18.72678pt too wide) in paragraph at lines 14--16
+[]\TU/SBLBibLit(0)/m/n/16 γοις πονηροῖς φλυαρῶν$[]$ ἡμᾶς, καὶ μὴ ἀρκούμενος$[]$
+ ἐπὶ τούτοις οὔτε αὐτὸς ἐπιδέχεται$[]$[]
+ []
+
+
+
+Missing character: There is no ١ (U+0661) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+[1
+
+]
+
+Missing character: There is no ٢ (U+0662) in font Noto Naskh Arabic Regular/OT:
+script=arab;language=FAR;mapping=tex-text;!
+[2] (./farsi_NT_3JN.aux)
+ ***********
+LaTeX2e <2024-06-01> patch level 2
+L3 programming layer <2024-09-10>
+ ***********
+
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 1.28pt have occurred.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 7813 strings out of 474235
+ 194847 string characters out of 5744033
+ 756839 words of memory out of 5000000
+ 30346 multiletter control sequences out of 15000+600000
+ 563083 words of font info for 107 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 108i,11n,121p,7810b,567s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on farsi_NT_3JN.xdv (2 pages, 30960 bytes).
