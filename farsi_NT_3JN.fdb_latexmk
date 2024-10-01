@@ -1,10 +1,10 @@
 # Fdb version 4
-["xdvipdfmx"] 1727821184.36944 "farsi_NT_3JN.xdv" "farsi_NT_3JN.pdf" "farsi_NT_3JN" 1727821184.61286 0
-  "farsi_NT_3JN.xdv" 1727821184.23274 30960 23b7697f627d8a9d0af26a69cdb12b1f "xelatex"
+["xdvipdfmx"] 1727822109.15374 "farsi_NT_3JN.xdv" "farsi_NT_3JN.pdf" "farsi_NT_3JN" 1727822109.40352 0
+  "farsi_NT_3JN.xdv" 1727822109.0153 30960 47815de1ee696855185905ca096a720d "xelatex"
   (generated)
   "farsi_NT_3JN.pdf"
   (rewritten before read)
-["xelatex"] 1727821181.88013 "farsi_NT_3JN.tex" "farsi_NT_3JN.xdv" "farsi_NT_3JN" 1727821184.61167 0
+["xelatex"] 1727822106.70212 "farsi_NT_3JN.tex" "farsi_NT_3JN.xdv" "farsi_NT_3JN" 1727822109.40232 0
   "/opt/texlive/texdir/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/opt/texlive/texdir/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1136768653 1528 abec98dbc43e172678c11b3b9031252a ""
   "/opt/texlive/texdir/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1136768653 1524 4414a8315f39513458b80dfc63bff03a ""
@@ -69,9 +69,9 @@
   "/opt/texlive/texdir/texmf-dist/web2c/texmf.cnf" 1727217670 42021 a58d36c7ede3d2fc9f93da62d691ddff ""
   "/opt/texlive/texdir/texmf-var/web2c/xetex/xelatex.fmt" 1727746238 5862836 8ec87f662a072a5fb9570329f97b0e42 ""
   "/opt/texlive/texdir/texmf.cnf" 1727746089 555 bd60ff59e4d560b42d96b004436f91d3 ""
-  "farsi_NT_3JN.aux" 1727821184.23174 16309 c542208b9ba7e6f7dcd3fa37accc558a "xelatex"
-  "farsi_NT_3JN.tex" 1727821078.46944 10043 331db28ecd00732772216fc2929ce803 ""
-  "openreader.cls" 1727821078.48044 5148 f72579cad59732f61eb6d06a478d00c9 ""
+  "farsi_NT_3JN.aux" 1727822109.0133 16309 c542208b9ba7e6f7dcd3fa37accc558a "xelatex"
+  "farsi_NT_3JN.tex" 1727822006.25218 10043 331db28ecd00732772216fc2929ce803 ""
+  "openreader.cls" 1727822006.26218 5148 f72579cad59732f61eb6d06a478d00c9 ""
   (generated)
   "farsi_NT_3JN.aux"
   "farsi_NT_3JN.log"
