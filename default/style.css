@@ -1,0 +1,255 @@
+html,body{overflow-x:hidden}
+
+body {
+    font-family: SBL BibLit, Georgia, serif;
+    line-height: 1.5;
+    font-size: 2rem;
+    user-select: none;
+}
+
+#container {
+    margin: 2rem;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0.3rem;
+}
+
+html[lang='hbo'] {
+    direction: rtl;
+}
+
+html[lang='grc'] {
+    direction: ltr;
+}
+.chapter {
+    margin-bottom: 1rem;
+}
+
+.chapter-number {
+	font-family: Noto Naskh Arabic;
+	font-weight: bold;
+	color: #444;
+  font-size: 3em;
+  line-height: 1;
+}
+
+html[lang='hbo'] .chapter-number {
+  float: right;
+  margin-left: 0.2em; /* Adjust spacing to the text */
+}
+
+html[lang='grc'] .chapter-number {
+  float: left;
+  margin-right: 0.2em; /* Adjust spacing to the text */
+}
+
+.verse {
+    display: inline;
+}
+.verse-number {
+    font-family: Noto Naskh Arabic;
+    font-size: 1.5rem;
+    color: black;
+    vertical-align: top;
+    margin-left: 0.3rem;
+}
+.annotation-toggle {
+    font-family: Noto Naskh Arabic;
+    color: gray;
+    text-decoration: none;
+    vertical-align: super;
+    font-size: 1.5rem;
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.wd:has(.annotation-toggle) > .txt {
+      cursor: pointer;
+}
+
+.annotation {
+    font-family: Noto Naskh Arabic;
+
+    color: black;
+    display: block;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%); /* Adjust for centering */
+    background-color: #f9f9f9;
+    border: 1px solid #727272;
+    padding: 0.5rem;
+    z-index: 10;
+    
+    white-space: normal; /* Allow wrapping */
+    word-wrap: break-word; /* Ensure long words wrap */
+    max-width: 100vw; /* Prevent width from exceeding the viewport */
+    box-sizing: border-box; /* Include padding and border in width calculation */
+    overflow-wrap: break-word; /* Break long words if necessary */
+
+    filter: drop-shadow(4px 4px 4px #444444);
+}
+.annotation.hidden {
+    display: none;
+}
+.annotation.active {
+  display: block;
+}
+
+div[dir='rtl'] .parsing:not(:last-child), 
+div[dir='rtl'] .lexical-form:not(:last-child), 
+div[dir='rtl'] .gloss:not(:last-child), 
+div[dir='rtl'] .ketiv-qere:not(:last-child) 
+{
+    margin-left: 0.5rem;
+}
+
+div[dir='ltr'] .parsing:not(:last-child), 
+div[dir='ltr'] .lexical-form:not(:last-child), 
+div[dir='ltr'] .gloss:not(:last-child), 
+div[dir='ltr'] .ketiv-qere:not(:last-child) 
+{
+    margin-right: 0.5rem;
+}
+
+.gloss {
+    font-style: italic;
+}
+
+.lexical-form, .ketiv-qere {
+    font-family: SBL BibLit, Georgia, serif;
+    white-space: nowrap;
+}
+
+.lexical-form {
+  display: block;
+}
+
+.wd {
+    white-space: nowrap;
+    position: relative;
+    display: inline-block;
+}
+
+.annotation {
+  position: absolute;
+  top: 100%;       /* Directly below the text */
+  left: 50%;       /* Move to the middle of the parent */
+  transform: translateX(-50%); /* Offset by half its own width to center */
+  z-index: 10;
+  white-space: nowrap; /* Prevents awkward wrapping */
+}
+
+/* Mostly motivated by the TOC */
+h1 {
+    font-size: 1.5em;
+}
+
+h2 {
+    font-size: 1em;
+}
+
+table.toc {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+  font-size: 16px;
+  text-align: left;
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.toc th, .toc td {
+  padding: 12px 15px;
+  border: 1px solid #ddd;
+}
+
+.toc th {
+  font-weight: normal;
+}
+
+.toc td {
+  text-align: center;
+}
+  
+.toc tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+.toc tr:hover {
+  background-color: #e9e9e9;
+}
+
+.toc a {
+  color: #007bff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.toc a:hover {
+  text-decoration: underline;
+}
+
+.toc h2 {
+  font-size: 20px;
+  margin-bottom: 10px;
+  color: #333;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  body {
+    font-size: 1.5rem;
+  }
+
+  .toc {
+    font-size: 14px;
+  }
+
+  .toc th, .toc td {
+    padding: 10px;
+  }
+
+  .wd:has(.annotation-toggle) > .txt {
+      cursor: pointer;
+      text-decoration-line: underline;
+      text-decoration-style: dashed;
+      text-decoration-color: #999;
+      text-decoration-thickness: 0.2rem;
+  }
+
+  #container {
+    margin: 0px;
+  }
+
+  .annotation {
+    min-width: 50vw; 
+    max-width: 95vw;
+    white-space: normal; 
+    box-sizing: border-box;
+  }
+}
+
+
+ul.chapters {
+	direction: rtl;
+}
+
+ul.chapters > li {
+	list-style: none;
+}
+
+ul.chapters > li > a {
+    color: #000;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+/* Begin Custom Template */
+
+
+
+/* Begin Custom Template */
+
