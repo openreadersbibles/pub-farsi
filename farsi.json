@@ -280,7 +280,7 @@
       "footnote_style": "lettered-by-verse",
       "gloss_markdown_separator": ". ",
       "footnote_type_functions": {
-        "OT": "if (lex_id === 1439638) {\n\treturn FootnoteType.None;\n}\nif (isVerb) {\n\tif (belowFrequencyThreshold) {\n\t\treturn FootnoteType.ParsingGloss;\n\t} else {\n\t\treturn FootnoteType.None;\n\t}\n} if (isSubstantive) {\n\tif (belowFrequencyThreshold) {\n\t\treturn FootnoteType.ParsingGloss;\n\t} else {\n\t\treturn FootnoteType.None;\n\t}\n} else {\n\tif (belowFrequencyThreshold || isInteroggative) {\n\t\treturn FootnoteType.Gloss;\n\t} else {\n\t\treturn FootnoteType.None;\n\t}\n}"
+        "OT": "if (lex_id === 1439638) {\n\treturn FootnoteType.None;\n}\nif (isVerb) {\n\tif (belowFrequencyThreshold) {\n\t\treturn FootnoteType.ParsingGloss;\n\t} else {\n\t\treturn FootnoteType.None;\n\t}\n} else if (isSubstantive) {\n\tif (belowFrequencyThreshold) {\n\t\treturn FootnoteType.ParsingGloss;\n\t} else {\n\t\treturn FootnoteType.None;\n\t}\n} else {\n\tif (belowFrequencyThreshold || isInteroggative) {\n\t\treturn FootnoteType.Gloss;\n\t} else {\n\t\treturn FootnoteType.None;\n\t}\n}"
       }
     }
   },
